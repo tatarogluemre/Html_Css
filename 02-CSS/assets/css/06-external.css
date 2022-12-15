@@ -1,0 +1,13 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+p.aaa {
+    color: rgb(231, 190, 160);
+    font-size: 1.3rem;
+    background-color: rgb(223, 124, 4);
+}
+.bbb{
+    font-weight: bold;
+    color: rgb(247, 156, 21);
+}
